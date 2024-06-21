@@ -1,6 +1,6 @@
 # README: Data-driven Governance Research Project
-### Due to privacy policy of our mentor we are not allowed to share code pubilically so in case you want to know more about research you can contact on 
-### Email: tanmaynagori14@gmail.com
+#### Due to privacy policy of our mentor we are not allowed to share code pubilically so in case you want to know more about research you can contact on 
+#### Email: tanmay14nagor@gmail.com
 
 ## Project Overview
 This research explores the optimization of District Magistrates' (DM) tenure in India through machine learning techniques. By analyzing data from multiple sources, including NITI Aayog and NFHS, we aimed to enhance policy implementation and administrative efficiency. The study highlights the benefits of evidence-based governance and provides actionable insights for policymakers.
