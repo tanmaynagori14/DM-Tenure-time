@@ -41,4 +41,4 @@ This research explores the optimization of District Magistrates' (DM) tenure in 
 ## Conclusion
 This research demonstrates how machine learning can optimize administrative tenures, leading to more effective and transparent governance. The findings underscore the value of evidence-based policymaking and highlight the role of advanced analytics in public administration.
 
-For detailed information, refer to the full research paper: [DST_research_Paper_TanmayNagori.pdf]([file-ddS08hy1o1WGHgf09cguIBpf](https://github.com/tanmaynagori14/DM-Tenure-time/blob/main/DST_research_Paper_TanmayNagori.pdf)).
+For detailed information, refer to the full research paper: https://github.com/tanmaynagori14/DM-Tenure-time/blob/main/DST_research_Paper_TanmayNagori.pdf.
