@@ -20,8 +20,11 @@ This research explores the optimization of District Magistrates' (DM) tenure in 
 - Interactive dashboards display key metrics and predictive insights, aiding in decision-making processes.
 
 ### 4. Results
+![image](https://github.com/tanmaynagori14/DM-Tenure-time/assets/97458530/71cefd4e-3daa-4f79-8194-47ede7449250)
 - The model's predictions suggest that a **730-day tenure** is optimal for DMs, improving governance outcomes by **80%**.
 - Evidence-based approach validated by historical data, showing enhanced policy execution and reduced administrative disruptions.
+- ![image](https://github.com/tanmaynagori14/DM-Tenure-time/assets/97458530/fbab8547-5ddb-4530-b9ee-bcf465708bba)
+
 
 ### 5. Contribution and Impact
 - Presented findings to NITI Aayog officials, emphasizing the importance of data-driven decisions in governance.
