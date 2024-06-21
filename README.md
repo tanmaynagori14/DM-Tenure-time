@@ -20,6 +20,10 @@ This research explores the optimization of District Magistrates' (DM) tenure in 
 ### 3. Data Visualization
 - Developed a **website** to visualize the collected data, enabling better understanding and analysis for stakeholders.
 - Interactive dashboards display key metrics and predictive insights, aiding in decision-making processes.
+- ![image](https://github.com/tanmaynagori14/DM-Tenure-time/assets/97458530/61497437-d0b3-45cb-90c2-2e25577ff680)
+- ![image](https://github.com/tanmaynagori14/DM-Tenure-time/assets/97458530/05dd1b75-f6eb-4eb2-b096-c2f3cb2e186e)
+
+
 
 ### 4. Results
 ![image](https://github.com/tanmaynagori14/DM-Tenure-time/assets/97458530/71cefd4e-3daa-4f79-8194-47ede7449250)
